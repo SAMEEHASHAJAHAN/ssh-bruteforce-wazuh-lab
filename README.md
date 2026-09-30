@@ -34,7 +34,7 @@ VirtualBox · Kali Linux · Ubuntu Server · OpenSSH · Wazuh SIEM · UFW · MIT
 
 ## Contents
 
-- `SSH_BruteForce_Project_Presentation.docx` — full project write-up (flowchart, evidence, blocking & documentation criteria, incident report)
+- `SSH_BruteForce_Project_Presentation.pdf` — full project write-up (flowchart, evidence, blocking & documentation criteria, incident report)
 
 ## Author
 
